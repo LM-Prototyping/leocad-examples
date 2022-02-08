@@ -1,0 +1,29 @@
+0 FILE Neues Modell.ldr
+0 
+0 Name: Neues Modell.ldr
+0 Author: 
+1 7 -20 -80 60 1 0 0 0 1 0 0 0 1 53787.dat
+0 NOFILE
+0 FILE Untermodell #1.ldr
+0 
+0 Name: Untermodell #1.ldr
+0 Author: 
+1 7 0 -8 20 1 0 0 0 1 0 0 0 1 53792.dat
+0 NOFILE
+0 FILE Untermodell #2.ldr
+0 
+0 Name: Untermodell #2.ldr
+0 Author: 
+1 7 0 -8 20 1 0 0 0 1 0 0 0 1 53793.dat
+0 NOFILE
+0 FILE Untermodell #3.ldr
+0 
+0 Name: Untermodell #3.ldr
+0 Author: 
+1 7 0 -8 20 1 0 0 0 1 0 0 0 1 ms1034.dat
+0 NOFILE
+0 FILE Untermodell #4.ldr
+0 
+0 Name: Untermodell #4.ldr
+0 Author: 
+0 NOFILE

@@ -1,0 +1,62 @@
+0 FILE Neues Modell.ldr
+0 
+0 Name: Neues Modell.ldr
+0 Author: 
+1 7 100 0 120 1 0 0 0 1 0 0 0 1 Untermodell #6.ldr
+1 7 -190 0 280 1 0 0 0 1 0 0 0 1 Untermodell #5.ldr
+1 7 160 -24 60 -1 0 0 0 1 0 0 0 -1 Untermodell #4.ldr
+0 NOFILE
+0 FILE Untermodell #1.ldr
+0 
+0 Name: Untermodell #1.ldr
+0 Author: 
+1 7 -20 -48 190 1 0 0 0 1 0 0 0 1 91598.dat
+1 7 0 -72 -40 1 0 0 0 1 0 0 0 1 97492.dat
+1 7 120 -24 80 1 0 0 0 1 0 0 0 1 44237.dat
+1 7 180 -24 260 0 0 1 0 1 0 -1 0 0 15588.dat
+0 NOFILE
+0 FILE Untermodell #2.ldr
+0 
+0 Name: Untermodell #2.ldr
+0 Author: 
+1 7 -20 0 0 1 0 0 0 1 0 0 0 1 Untermodell #3.ldr
+1 7 -70 -48 90 1 0 0 0 1 0 0 0 1 35382.dat
+1 7 -50 -48 90 1 0 0 0 1 0 0 0 1 35382.dat
+1 7 -60 -56 90 -1 0 0 0 1 0 0 0 -1 21731.dat
+0 NOFILE
+0 FILE Untermodell #3.ldr
+0 
+0 Name: Untermodell #3.ldr
+0 Author: 
+1 7 -100 0 20 1 0 0 0 1 0 0 0 1 Untermodell #4.ldr
+1 7 -40 -24 50 1 0 0 0 1 0 0 0 1 63322.dat
+1 7 20 -24 80 1 0 0 0 1 0 0 0 1 92538.dat
+1 7 -40 -72 0 0 0 1 0 1 0 -1 0 0 97492.dat
+0 NOFILE
+0 FILE Untermodell #4.ldr
+0 
+0 Name: Untermodell #4.ldr
+0 Author: 
+1 7 0 -24 50 1 0 0 0 1 0 0 0 1 93792.dat
+1 7 10 -24 10 1 0 0 0 1 0 0 0 1 45505.dat
+1 7 160 -24 10 1 0 0 0 1 0 0 0 1 63322.dat
+0 NOFILE
+0 FILE Untermodell #5.ldr
+0 
+0 Name: Untermodell #5.ldr
+0 Author: 
+1 7 -30 0 20 1 0 0 0 1 0 0 0 1 Untermodell #3.ldr
+1 7 -130 -24 40 1 0 0 0 1 0 0 0 1 Untermodell #4.ldr
+1 7 -130 -48 40 1 0 0 0 1 0 0 0 1 Untermodell #4.ldr
+1 7 250 0 20 1 0 0 0 1 0 0 0 1 Untermodell #2.ldr
+0 NOFILE
+0 FILE Untermodell #6.ldr
+0 
+0 Name: Untermodell #6.ldr
+0 Author: 
+1 7 -60 0 -40 -1 0 0 0 1 0 0 0 -1 Untermodell #2.ldr
+1 7 -340 0 -200 1 0 0 0 1 0 0 0 1 Untermodell #1.ldr
+1 7 -160 -24 60 1 0 0 0 1 0 0 0 1 15588.dat
+1 7 -160 -24 60 0 0 -1 0 1 0 1 0 0 15588.dat
+1 7 -160 -24 60 -1 0 0 0 1 0 0 0 -1 15588.dat
+0 NOFILE
